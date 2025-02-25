@@ -8,7 +8,7 @@ HTML, CSS, SQL, Java, JavaScript, PHP, Python, C#
 
 🛠 Tools:
 
-Visual Studio Code, Visual Studio, MySQL, Oracle Database, Android Studio, Figma, GitHub
+Visual Studio Code, Visual Studio, MySQL, Oracle Database, Android Studio, Figma, PowerBI, GitHub
 
 🚀 Methodologies:
 
