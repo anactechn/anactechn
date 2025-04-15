@@ -1,17 +1,14 @@
-I'm completely passionate about technology and everything related to this universe! My heart beats faster for back-end development – it's a true obsession of mine. 😍
+Sou completamente apaixonada por tecnologia e tudo relacionado a esse universo! Meu coração bate mais forte pelo desenvolvimento back-end - é uma verdadeira obsessão minha. 😍
 
-Throughout my journey, I have become familiar with various languages, tools, and methodologies, such as:
+Ao longo da minha jornada, familiarizei-me com diversas linguagens, ferramentas e metodologias, como:
 
-💻 Languages:
-
+💻 Linguagens:
 HTML, CSS, SQL, Java, JavaScript, PHP, Python, C#
 
-🛠 Tools:
-
+🛠 Ferramentas:
 Visual Studio Code, Visual Studio, MySQL, Oracle Database, Android Studio, Figma, PowerBI, GitHub
 
-🚀 Methodologies:
+🚀 Metodologias:
+SCRUM, UI e UX
 
-SCRUM, UI, and UX
-
-I have a technical degree in Systems Development, which has given me a solid foundation, and I’m currently studying Multiplatform Systems Development at FATEC. Right now, I’m diving deep into Java and its various applications. I’m always eager to learn more and improve my skills! 💙✨
+Tenho um diploma técnico em Desenvolvimento de Sistemas, que me deu uma base sólida, e atualmente estou cursando Desenvolvimento de Sistemas Multiplataforma na FATEC. No momento, estou me aprofundando em Java e suas diversas aplicações. Estou sempre ansiosa para aprender mais e aprimorar minhas habilidades! 💙✨
